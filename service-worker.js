@@ -44,4 +44,5 @@ self.addEventListener('push', (event) => {
     icon: '/icons/icon-192x192.png'
   });
 });
-http-server .
+npm install -g http-server
+
