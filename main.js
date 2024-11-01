@@ -1,7 +1,7 @@
 document.getElementById('emergency-contacts').innerHTML = `
   <h2>Contacts d'Urgence</h2>
-  <button onclick="window.location.href='tel:+21612345678'">Appeler la Sécurité</button>
-  <button onclick="window.location.href='tel:+21611223344'">Appeler les Pompiers</button>
+  <button onclick="window.location.href='tel:+21658573279'">Appeler la Sécurité</button>
+  <button onclick="window.location.href='tel:+21658573279'">Appeler les Pompiers</button>
 `;
 
 document.getElementById('first-aid-guide').innerHTML = `
