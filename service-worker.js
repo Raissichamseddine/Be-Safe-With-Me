@@ -45,4 +45,5 @@ self.addEventListener('push', (event) => {
   });
 });
 npm install -g http-server
+cd chemin/vers/le/dossier/be-safe-With-Me
 
