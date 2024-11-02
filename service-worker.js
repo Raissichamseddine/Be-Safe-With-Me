@@ -45,7 +45,7 @@ icon: '/icons/icon-192x192.png'
 });
 });
 npm install -g http-server
-cd chemin/vers/le/dossier/be-safe-With-Me
+https://github.com/Raissichamseddine/Be-Safe-With-Me.git
 self.addEventListener('fetch', (event) => {
   event.respondWith(
     caches.match(event.request)
